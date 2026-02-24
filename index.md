@@ -34,9 +34,9 @@
 
 \- \[我的博客](https://maxkore.bbroot.com)
 
-\- \[GitHub 仓库](https://github.com/Maxkore-Geek/Maxkore-Geek-Blog-docs)
+\- \[Blog GitHub 仓库](https://github.com/Maxkore-Geek/Maxkore-Geek.github.io)
 
-
+\- \[Docs GitHub 仓库](https://github.com/Maxkore-Geek/Maxkore-Geek-Blog-docs)
 
 \## 📅 最后更新
 
